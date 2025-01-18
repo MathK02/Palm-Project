@@ -1,7 +1,7 @@
-all_palm.py montre la moyenne de toutes les séquences palms, en comparant on tombe bien sur l'image floue
+-all_palm.py calculates the average of all palm sequences; when comparing, the blurred image appears clearly.
 
-palm_data_visualization.py est le code pour voir les data à notre disposition
+-palm_data_visualization.py is the code for visualizing the data available to us.
 
-palm-detection.py est le code pour voir l'étape de sélection des maximas et de rafinement de la position
+-palm-detection.py is the code for examining the step of selecting maxima and refining the position.
 
-palm-reconstruction.py est le code contenant tout le nécessaire pour afficher l'image finale à rechercher
+-palm-reconstruction.py contains everything needed to display the final image to be searched.
